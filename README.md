@@ -1,1 +1,1 @@
-- # [First day](https://gumirus.github.io/First-day/)
+- # [First day](https://github.com/gumirus/First-day.git)
